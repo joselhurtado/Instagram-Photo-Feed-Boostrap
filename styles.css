@@ -22,9 +22,24 @@
     .xl {color:red;font-weight:bold;}
 }
 
+.object-fit_fill { 
+    width: 650px;
+    height: 400px;
+    object-fit: fill
+}
+
+.card-img {
+    width: 500px;
+    height: auto;
+}
 
 #bookmark {
     text-align: right;
 	float: right;
+}
 
+.card {
+    width: 800px;
+    height: auto;
+    margin: auto;
 }
